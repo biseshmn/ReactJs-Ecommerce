@@ -1,0 +1,26 @@
+.carousel-item img{
+    height: 520px;
+    object-fit: cover;
+}
+.card img{
+    height: 240px;
+    object-fit: contain;
+}
+
+.nav-item{
+    padding: 5px 0 5px 0 ;
+}
+
+.nav-link{
+    padding: 5px;
+    border-radius: 25px;
+}
+.nav-link>.active{
+    background-color: blue;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+ }
